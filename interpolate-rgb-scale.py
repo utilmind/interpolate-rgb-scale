@@ -62,7 +62,7 @@ colors = {
 }
 """
 colors = {
-    # Alternative, soft colors from https://wio-dev.avmet.com/
+    # Alternative, soft colors
     1: (176, 238, 176),   # Soft Green
     3: (255, 255, 120),   # Soft Yellow
     7: (248, 152, 150),   # Soft Red
