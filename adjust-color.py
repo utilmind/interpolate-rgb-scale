@@ -1,6 +1,6 @@
 """
 Filename: adjust-color.py
-Description: Adjust the brightness of an RGB color or a single channel.
+Description: A command-line tool to adjust the brightness of an RGB color or a single channel.
 
     Args:
         color (tuple or int): RGB values of the color (e.g., (255, 255, 120)) or single channel.
