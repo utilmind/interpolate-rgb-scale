@@ -19,7 +19,7 @@ Dependencies:
 - No external libraries
 
 Usage:
-Run this script directly to see interpolated colors for a predefined scale.
+Run this script directly, specifying the color value between 0 to 255 as CLI parameter.
 """
 
 import argparse
